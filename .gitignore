@@ -1,0 +1,25 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+# intermediate results 
+/_site/
+/_book/
+/_cache/
+/figures/
+.rmarkdown
+
+# accidental pdf rendering
+index.aux
+index.log
+index.pdf
+index.tex
+index.toc
+
+# spatial files needed for ames plot
+R/iowa_highway.shx
+R/iowa_highway.shp
+R/iowa_highway.dbf
